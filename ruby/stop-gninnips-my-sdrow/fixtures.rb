@@ -1,1 +1,0 @@
-Test.assert_equals(spinWords("Hey fellow warriors"), "Hey wollef sroirraw");
